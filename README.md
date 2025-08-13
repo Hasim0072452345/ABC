@@ -1,6 +1,6 @@
-# ABC
+# Computer Defintion
 A computer is a programmable device that stores, retrieves, and processes data. The term "computer" was originally given to humans (human computers) who performed numerical calculations using mechanical calculators, such as the abacus and slide rule. 
-echo "# ABC" >> README.md
+echo "# Computer Defintion" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
